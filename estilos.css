@@ -1,0 +1,62 @@
+body {
+    background-color:rgb(116, 0, 106);
+  }
+
+  h1{
+    font-family: 'Monoton', cursive;
+    text-align: left;
+    font-size: 23px;
+  }
+
+  h2 {
+    font-family: "Sofia", sans-serif;
+    font-size: 25px;
+    
+  }
+
+div{
+  
+  font-size: 16px;  
+  color: white;
+  border: 12px double rgb(255, 0, 0);
+  padding: 12px;
+  width: 70%;
+  margin: 0 auto ;
+}
+fieldset{
+  margin-bottom: 30px;
+}
+
+legend{
+  background-color: rgb(190, 0, 0);
+  padding: 10px;
+  border-radius: 10px;
+  font-weight: bold;
+  font-size: 20px;
+  font-family: 'Suez One', serif;
+}
+
+img {
+  
+  border-radius: 30%;
+  margin-bottom: 10px;
+  margin-right: 40px;
+  float: left;
+
+}
+span{
+  font-size: 18px;
+  font-weight: bold;
+}
+
+.boton3 {
+  display: inline-block;
+  margin-top: 6px;
+  border-radius: 50px;
+  background-color: rgb(66, 64, 64);
+  padding:  2px 4px;
+  color: azure;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 16px;
+  }
+
